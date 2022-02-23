@@ -1,0 +1,15 @@
+.input-seach-main {
+    width: 90%;
+    height: 35px;
+    margin-right: 0.5rem;
+    padding-left: 1rem;
+    border-radius: 0.5rem;
+    border-style: solid;
+    border-color: #198754;
+}
+
+.button-search-main {
+    width: 5%;
+    height: 35px;
+    margin-top: -0.2rem;
+}
